@@ -2,7 +2,7 @@
 alias rt='phpunit -c app/ '
 alias ci='composer install'
 alias lx='sudo ls -laht --color=auto'
-alias bop='sudo nano ~/.bashrc'
+alias bop='sudo nano ~/.bashrc_aliases'
 alias brl='source ~/.bashrc'
 
 # git aliases
