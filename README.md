@@ -27,7 +27,7 @@ Installation
 
 3. Copy the '.bashrc_aliases' to the same folder as your '~/bashrc' file:
 
-        $ sudo mv <local_cloned_folder>/.bashrc_aliases ~/.bashrc_aliases
+        $ sudo mv <local_cloned_folder>/.bash_aliases ~/.bash_aliases
 
 4. Finally reload the bash (which you can do after this with a simple '$ brl' as 
 you have this alias.
